@@ -14,6 +14,6 @@
 #include <cstdlib>
 #include <ctime>
 #include <windows.h>
-
+#include <conio.h>
 
 // TODO: reference additional headers your program requires here
